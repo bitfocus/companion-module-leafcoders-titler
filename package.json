@@ -1,0 +1,26 @@
+{
+	"name": "LeafCoders Titler",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Streaming",
+		"Title"
+	],
+	"manufacturer": "LeafCoders",
+	"product": "Titler",
+	"shortname": "titler",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mahlbom/LeafCodersTitler.git"
+	},
+	"author": "Mats Ahlbom mats@ahlbom.nu",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/mahlbom/LeafCodersTitler.git/issues"
+	},
+	"homepage": "https://github.com/mahlbom/LeafCodersTitler.git#readme"
+}
