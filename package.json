@@ -15,7 +15,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/mahlbom/LeafCodersTitler.git"
+		"url": "git+https://github.com/companion-module-leafcoders-titler.git"
 	},
 	"author": "Mats Ahlbom mats@ahlbom.nu",
 	"license": "MIT",
