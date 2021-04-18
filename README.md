@@ -1,2 +1,7 @@
 # companion-module-leafcoders-titler
-See [HELP.md](./HELP.md) and [LICENSE](./LICENSE)
+
+This module is used with https://github.com/LeafCoders/titler.
+
+Titler is a Title viewer for streaming.
+
+See [LICENSE](./LICENSE)

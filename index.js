@@ -39,7 +39,7 @@ instance.prototype.config_fields = function () {
 			id: 'info',
 			width: 12,
 			label: 'Information',
-			value: 'Use this with https://github.com/LeafCoders/titler'
+			value: 'Use this with https://github.com/LeafCoders/titler <br><B>Base URL</B> is the URL where Titler is running. <br><B>Type of key</B> is what type of keying you is used. <br><B>Default duration</B> set the viewing time of the title.'
 		},
 		{
 			type: 'textinput',
