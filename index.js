@@ -111,15 +111,11 @@ instance.prototype.action = function (action) {
 	var self = this;
 	var cmd;
 
-	console.log('Test');
-
 	if (self.config.url !== undefined && self.config.url.substring(0, 4) == 'http') {
 		if (self.config.url.length > 0) {
 			cmd = self.config.url + "?name=" + action.options.name + "&title=" + action.options.title + "&duration=" + action.options.duration + "&key=" + self.config.keydropdown;
 		}
 	}
-
-	console.log("URL to send: " + cmd);
 
 	if (action.action == 'title') {
 		var header;

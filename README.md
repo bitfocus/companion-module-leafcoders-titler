@@ -2,6 +2,6 @@
 
 This module is used with https://github.com/LeafCoders/titler.
 
-Titler is a Title viewer for streaming.
+Titler show name and title with chroma- or lumakey for streaming.
 
 See [LICENSE](./LICENSE)
